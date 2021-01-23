@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "xxxxxxxxxxxxxxxxxxxExecuting the customer build bhanu"
+
+/usr/libexec/assamble
+
+echo " Coptying the files "
+cp ../../*.html /var/www/html/
+
+
+echo "copy successs " 
